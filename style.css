@@ -1,13 +1,5 @@
-div.rojo {
-    background-color: red;
-    width: 24.5%;
-    height: 20px;
-   display: inline-block;
+h1{
+    background-color:black;
+    color: yellow;
 }
 
-div.amarillo {
-    background-color: yellow;
-    width: 24.5%;
-    height: 20px;
-    display: inline-block;
-}
