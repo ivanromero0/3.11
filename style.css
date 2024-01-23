@@ -3,3 +3,12 @@ h1{
     color: yellow;
 }
 
+img.escudo {
+    position: relative;
+    left: 20%;
+}
+
+img.equipo {
+    position: relative;
+    left: 32%;
+}
